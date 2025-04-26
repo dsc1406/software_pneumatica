@@ -230,7 +230,7 @@ def main_page():
 
 
 def main():
-    st.set_page_config(page_title="Calculo de Cilindros", layout="wide", initial_sidebar_state='expanded')
+    st.set_page_config(page_title="PneuMate - Cálculo de Cilindro Pneumáticos", layout="wide", page_icon='🔧')
 
     main_page() 
 
